@@ -1,0 +1,19 @@
+body {
+     background-color: #2079c7;
+}
+
+.contain {
+    width: 1000px;
+}
+
+p a {
+    background-color: #2079c7 !important;
+}
+
+p a:hover {
+    background-color: #428DD0  !important;
+}
+
+thead {
+    background-color: #0075de2e  !important;
+}
