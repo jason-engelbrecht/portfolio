@@ -1,2 +1,2 @@
 # portfolio
-### my portfolio: https://jengelbrecht.greenriverdev.com/
+### https://jengelbrecht.greenriverdev.com/
