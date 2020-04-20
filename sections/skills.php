@@ -51,7 +51,7 @@
         </ul>
 
         <div class="subheading mb-3">Coursework</div>
-        <ul class="fa-ul mb-4">
+        <ul class="fa-ul mb-4 coursework">
             <li>
                 <i class="fa-li fa fa-check"></i>
                 Object-Oriented Programming
@@ -88,7 +88,7 @@
         </ul>
 
         <div class="subheading mb-3">Certifications</div>
-        <p class="ml-3">
+        <p class="ml-3 certs">
             <i class="fas fa-certificate"></i>
             Certified ScrumMaster by Scrum Alliance, 2019
         </p>

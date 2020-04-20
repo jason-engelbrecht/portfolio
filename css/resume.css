@@ -78,6 +78,18 @@ p.lead {
   color: #2079c7;
 }
 
+.dev-icons, .coursework, .certs {
+  cursor: default;
+}
+
+.coursework li:hover {
+  color: #2079c7;
+}
+
+.certs:hover {
+  color: #2079c7;
+}
+
 .nav-pills .nav-link.active {
   background-color: #2079c7 !important;
 }
