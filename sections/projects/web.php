@@ -2,10 +2,14 @@
 <div class="tab-pane fade show active" id="web" role="tabpanel" aria-labelledby="web-tab">
 
     <h3 class="mb-2 mt-5">The Language Lab</h3>
+    <a href="https://the-languagelab.herokuapp.com" target="_blank" class="float-right btn btn-outline-primary">
+        Live Site <i class="fas fa-arrow-right fa-sm"></i>
+    </a>
     <p class="lead">
         <a data-toggle="collapse" href="#multiCollapseExampleLL" role="button" aria-expanded="false"
            aria-controls="multiCollapseExampleLL">Description <i class="fas fa-level-down-alt"></i></a>
     </p>
+
     <div class="row">
         <div class="col">
             <div class="collapse multi-collapse" id="multiCollapseExampleLL">
@@ -43,12 +47,15 @@
         </div>
         <div class="mb-5">
             Built using: MDBootstrap, React, Node.js, Express, MongoDB, Mongoose, and Heroku.
-            <br><a href="https://the-languagelab.herokuapp.com" target="_blank"><strong>Live
-                    Site <i class="fas fa-arrow-right"></i></strong></a>
         </div>
     </div>
 
     <h3 class="mb-2 mt-5">NAMI Washington Application & Admin Portal</h3>
+
+    <a href="https://www.apply.namiwa.org" target="_blank" class="float-right btn btn-outline-primary">
+        Live Site <i class="fas fa-arrow-right fa-sm"></i>
+    </a>
+
     <p class="lead">
         <a data-toggle="collapse" href="#multiCollapseExample4" role="button" aria-expanded="false"
            aria-controls="multiCollapseExample4">Description <i class="fas fa-level-down-alt"></i></a>
@@ -116,21 +123,22 @@
             <p>
                 Built using: HTML/CSS, Bootstrap, JavaScript, jQuery, Charts.js, Ajax, PHP, MySQL, and
                 FatFree(MVC).
-                <br><strong>Development: </strong>
+                <br><i class="fas fa-code text-primary"></i> <strong class="text-primary">Development: </strong>
                 <a href="https://www.jengelbrecht.greenriverdev.com/unami" target="_blank">Application Portal
                     <a>|
                         <a href="https://www.jengelbrecht.greenriverdev.com/unami/login" target="_blank"> Admin
                             Portal </a>|
                         <a href="https://github.com/jason-engelbrecht/unami" target="_blank"> Code </a> (Open Source)
 
-                        <br><a href="https://www.apply.namiwa.org" class="pt-2" target="_blank"><strong>Live
-                                Site <i class="fas fa-arrow-right"></i></strong></a>
-
             </p>
         </div>
     </div>
 
     <h3 class="mb-2 mt-5">GIFMATCH</h3>
+    <a href="https://gif-match.herokuapp.com" target="_blank" class="float-right btn btn-outline-primary">
+        Live Site <i class="fas fa-arrow-right fa-sm"></i>
+    </a>
+
     <p class="lead">
         <a data-toggle="collapse" href="#multiCollapseExample55" role="button" aria-expanded="false"
            aria-controls="multiCollapseExample55">Description <i class="fas fa-level-down-alt"></i></a>
@@ -177,12 +185,10 @@
                 Built using: MDBootstrap, React, Node.js, Express, Mongoose, MongoDB, Heroku, Azure (App Service
                 and CosmosDB using Mongo API), and the GIPHY API.
 
-                <br><strong class="">Code: </strong>
+                <br><i class="fas fa-code text-primary"></i> <strong class="text-primary">Code: </strong>
                 <a href="https://github.com/jason-engelbrecht/gif-search" target="_blank">Front-end </a>|
                         <a href="https://github.com/jason-engelbrecht/gif-search-backend" target="_blank">
                             Back-end </a> (Open Source)
-                <br><a href="https://gif-match.herokuapp.com/" target="_blank"><strong>Live Site </strong><i
-                                class="fas fa-arrow-right"></i></a>
 
             </p>
         </div>
