@@ -8,10 +8,18 @@
         <div class="subheading">Project Type</div>
         <ul class="nav nav-pills nav-justified" id="tabs" role="tablist">
             <li class="nav-item">
-                <a class="nav-link active" id="web-tab"
-                   data-toggle="tab" href="#web" role="tab"
-                   aria-controls="web" aria-selected="true">
-                    Web Development
+                <a class="nav-link active" id="php-tab"
+                   data-toggle="tab" href="#php" role="tab"
+                   aria-controls="php" aria-selected="true">
+                    PHP
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" id="js-tab"
+                   data-toggle="tab" href="#js" role="tab"
+                   aria-controls="js" aria-selected="false">
+                    Javascript
                 </a>
             </li>
 
@@ -19,7 +27,7 @@
                 <a class="nav-link" id="java-tab"
                    data-toggle="tab" href="#java" role="tab"
                    aria-controls="java" aria-selected="false">
-                    Java Development
+                    Java
                 </a>
             </li>
         </ul>
@@ -27,7 +35,8 @@
 
         <!-- project tabs content -->
         <div class="tab-content pt-3" id="tabcontent">
-            <?php include 'web.php' ?>
+            <?php include 'php.php' ?>
+            <?php include 'js.php' ?>
             <?php include 'java.php' ?>
         </div>
         <!-- project tabs content -->
