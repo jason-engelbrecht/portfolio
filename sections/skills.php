@@ -40,6 +40,12 @@
                 <i class="fab fa-microsoft"></i>
             </li>
             <li class="list-inline-item">
+                <i class="fab fa-android"></i>
+            </li>
+            <li class="list-inline-item">
+                <i class="fab fa-apple"></i>
+            </li>
+            <li class="list-inline-item">
                 <i class="fab fa-git-square"></i>
             </li>
             <li class="list-inline-item">
