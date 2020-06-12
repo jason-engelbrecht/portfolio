@@ -30,6 +30,14 @@
                     Java
                 </a>
             </li>
+
+            <li class="nav-item">
+                <a class="nav-link" id="mobile-tab"
+                   data-toggle="tab" href="#mobile" role="tab"
+                   aria-controls="mobile" aria-selected="false">
+                    Mobile
+                </a>
+            </li>
         </ul>
         <!-- project type tabs -->
 
@@ -38,6 +46,7 @@
             <?php include 'php.php' ?>
             <?php include 'js.php' ?>
             <?php include 'java.php' ?>
+            <?php include 'mobile.php' ?>
         </div>
         <!-- project tabs content -->
     </div>

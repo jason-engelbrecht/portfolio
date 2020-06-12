@@ -14,7 +14,9 @@
         <div class="col">
             <div class="collapse multi-collapse" id="multiCollapseExampleLL">
                 <div class="card card-body">
-                    Built for the Green River College Foreign Language Department (more coming soon).
+                    Built for the Green River College Foreign Language Department, The Language Lab is a tool that
+                    quickly displays student success in relation to the usage of tutoring resources.
+                    Unlike manually viewing several separate pieces of data, this app provides instant interpolation of data.
                 </div>
             </div>
         </div>
@@ -63,7 +65,7 @@
         <div class="col">
             <div class="collapse multi-collapse" id="multiCollapseExample55">
                 <div class="card card-body">
-                    GIFMATCH allows you to enter a word or phrase that will get matched with the perfect gif (more coming soon).
+                    GIFMATCH allows you to enter a word or phrase that will get matched with the perfect GIF.
                 </div>
             </div>
         </div>
