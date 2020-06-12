@@ -25,7 +25,13 @@
                 allowfullscreen></iframe>
         <div class="mb-5">
             <p>
-                Built using: Java, Maven, JavaFX, and CSS.
+                Mobile App built using Dart and Flutter,
+                pulling data from a RESTful API deployed in Azure using Node.js, Express, and MS SQL.
+
+                <br><i class="fas fa-code text-primary"></i> <strong class="text-primary">Code: </strong>
+                <a href="https://github.com/jason-engelbrecht/goalmine_mobile" target="_blank">Mobile App </a>|
+                <a href="https://github.com/jason-engelbrecht/goalmine-api" target="_blank">
+                    RESTful API </a> (Open Source)
             </p>
         </div>
     </div>

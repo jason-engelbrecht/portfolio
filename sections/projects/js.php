@@ -49,6 +49,9 @@
         </div>
         <div class="mb-5">
             Built using: MDBootstrap, React, Node.js, Express, MongoDB, Mongoose, and Heroku.
+
+            <br><a href="https://github.com/jason-engelbrecht/language-lab" target="_blank"><i class="fas fa-code"></i> Code</a>
+            (Open Source)
         </div>
     </div>
 
