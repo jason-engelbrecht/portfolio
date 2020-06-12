@@ -4,29 +4,52 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
-                <h3 class="mb-0">Full Stack Developer</h3>
-                <div class="lead mb-3">Green River College</div>
+                <h3 class="mb-0">Application Developer</h3>
+                <div class="lead mb-3">GoalMine</div>
                 <p>
-                    Building a tool for the Foreign Language Department that analyzes
-                    several data points and generates reports to gain valuable insight.
+                    Built a mobile app that allows parents to quickly
+                    track their special needs student's educational progress,
+                    effectively increasing engagement by 50%.
                 </p>
                 <p>
-                    Will help drive a 50% increase in funding for the department, allowing
-                    them to divert more resources into tutoring and student success.
+                    Deployed a RESTful API in Azure using Node.js and Express,
+                    to provide endpoints that accessed an existing MS SQL database.
                 </p>
                 <p>
-                    Acting as ScrumMaster through development in a stack consisting of
-                    MDBootstrap, React, Node.js, Express, MongoDB, and Heroku.
+                    Rapidly developed a cross-platform (iOS and Android) mobile app
+                    using Flutter that utilized the API endpoints created.
                 </p>
             </div>
             <div class="resume-date text-md-right">
-                <span class="text-primary">January 2020 - Present</span>
+                <span class="text-primary">April 2020 - June 2020</span>
             </div>
         </div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
-                <h3 class="mb-0">Full Stack Developer</h3>
+                <h3 class="mb-0">Software Developer</h3>
+                <div class="lead mb-3">Green River College</div>
+                <p>
+                    Developed a tool for the Foreign Language Department that visualizes student success
+                    in relation to the usage of tutoring resources.
+                </p>
+                <p>
+                    The newly interpolated data drove a 50% increase in funding for the department,
+                    allowing them to divert more resources into student success.
+                </p>
+                <p>
+                    Successfully employed Agile to develop a React front-end, that pulled data
+                    from a back-end API built with Node.js, Express, and MongoDB.
+                </p>
+            </div>
+            <div class="resume-date text-md-right">
+                <span class="text-primary">January 2020 - April 2020</span>
+            </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="resume-content">
+                <h3 class="mb-0">Software Developer</h3>
                 <div class="lead mb-3">NAMI Washington (National Alliance on Mental Illness)</div>
                 <p>
                     Transferred an in-person trainee application process to an online portal and provided an admin
@@ -42,13 +65,13 @@
                 </p>
             </div>
             <div class="resume-date text-md-right">
-                <span class="text-primary">September 2019 - December 2019</span>
+                <span class="text-primary">September 2019 - January 2020</span>
             </div>
         </div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
-                <h3 class="mb-0">Full Stack Developer</h3>
+                <h3 class="mb-0">Web Developer</h3>
                 <div class="lead mb-3">WTIA (Washington Technology Industry Association)</div>
                 <p>
                     Built a prototype platform that allows volunteer speakers from industry
