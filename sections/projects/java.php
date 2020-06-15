@@ -1,5 +1,69 @@
 <!-- java projects -->
 <div class="tab-pane fade" id="java" role="tabpanel" aria-labelledby="java-tab">
+    <h3 class="mb-2 mt-5">Book Lending App</h3>
+    <p class="lead">
+        <a data-toggle="collapse" href="#multiCollapseExampleBL" role="button" aria-expanded="false"
+           aria-controls="multiCollapseExampleBL">Description <i class="fas fa-level-down-alt"></i></a>
+    </p>
+    <div class="row">
+        <div class="col">
+            <div class="collapse multi-collapse" id="multiCollapseExampleBL">
+                <div class="card card-body">
+                    A book lending app built with Spring Boot.
+                    The app allows for lenders to register, add books, loan books, and borrow books.
+                    Everything was persisted using the Hibernate ORM, connected to a MySQL database.
+                    All routes were secured using Spring Security, only accessible to registered users (lenders).
+                    All views were dynamically created using the Thymeleaf templating engine.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bd-example mt-2">
+        <div id="carouselExampleCaptionsBL" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleCaptionsBL" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleCaptionsBL" data-slide-to="1"></li>
+                <li data-target="#carouselExampleCaptionsBL" data-slide-to="2"></li>
+                <li data-target="#carouselExampleCaptionsBL" data-slide-to="3"></li>
+                <li data-target="#carouselExampleCaptionsBL" data-slide-to="4"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="images/book-lending/home.png" class="d-block w-100" alt="home">
+                </div>
+                <div class="carousel-item">
+                    <img src="images/book-lending/books.png" class="d-block w-100" alt="books">
+                </div>
+                <div class="carousel-item">
+                    <img src="images/book-lending/book.png" class="d-block w-100" alt="book">
+                </div>
+                <div class="carousel-item">
+                    <img src="images/book-lending/lenders.png" class="d-block w-100" alt="lenders">
+                </div>
+                <div class="carousel-item">
+                    <img src="images/book-lending/lender.png" class="d-block w-100" alt="lender">
+                </div>
+            </div>
+            <a class="carousel-control-prev prev-dark" href="#carouselExampleCaptionsBL" role="button"
+               data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next next-dark" href="#carouselExampleCaptionsBL" role="button"
+               data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <div class="mb-5">
+            <p>
+                Built using: HTML/CSS, Java, Spring (MVC, JPA, Hibernate, Thymeleaf, Spring Security), and MySQL
+                <br><a href="https://github.com/jason-engelbrecht/book-lending" target="_blank"><i class="fas fa-code"></i> Code</a>
+            </p>
+        </div>
+    </div>
+
     <h3 class="mb-2 mt-5">Maze Generator</h3>
     <p class="lead">
         <a data-toggle="collapse" href="#multiCollapseExample5" role="button" aria-expanded="false"
