@@ -9,7 +9,7 @@
                 <p>
                     Built a mobile app that allows parents to quickly
                     track their special needs student's educational progress,
-                    effectively increasing engagement by 50%.
+                    effectively increasing engagement by 30%.
                 </p>
                 <p>
                     Deployed a RESTful API in Azure using Node.js and Express,

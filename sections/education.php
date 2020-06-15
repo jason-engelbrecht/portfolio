@@ -13,7 +13,7 @@
                     Outstanding Cohort Student Award
                 </div>
                 <div class="mt-2"><i class="fas fa-trophy mr-1"></i>
-                    Green River College Foundation Scholarship
+                    Green River College Foundation Scholarship x2
                 </div>
             </div>
             <div class="resume-date text-md-right">
