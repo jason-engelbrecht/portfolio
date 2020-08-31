@@ -18,7 +18,7 @@
             <a href="https://github.com/jason-engelbrecht" target="_blank">
                 <i class="fab fa-github"></i>
             </a>
-            <a href="resume/resume-jason-engelbrecht.pdf" target="_blank">
+            <a href="resume/Resume_Jason_Engelbrecht.pdf" target="_blank">
                 <i class="far fa-file"></i>
             </a>
         </div>

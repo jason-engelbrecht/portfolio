@@ -56,7 +56,7 @@
     </div>
 
     <h3 class="mb-2 mt-5">GIFMATCH</h3>
-    <a href="https://gif-match.herokuapp.com" target="_blank" class="float-right btn btn-outline-primary">
+    <a href="https://www.gifmatch.app" target="_blank" class="float-right btn btn-outline-primary">
         Live Site <i class="fas fa-arrow-right fa-sm"></i>
     </a>
 

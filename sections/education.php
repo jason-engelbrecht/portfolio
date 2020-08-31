@@ -4,8 +4,8 @@
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
                 <h3 class="mb-0">Green River College</h3>
-                <div class="lead mb-1">Bachelor of Applied Science (BAS)</div>
-                <div class="mb-3">Software Development (Applied Computer Science), GPA: 3.8</div>
+                <div class="lead mb-1">Bachelor of Applied Science (BAS), Cum Laude</div>
+                <div class="mb-3">Software Development (Applied Computer Science), GPA: 3.7</div>
                 <div class="mt-2"><i class="fas fa-chalkboard-teacher mr-1"></i> Computer Science/Software
                     Development Tutor
                 </div>
