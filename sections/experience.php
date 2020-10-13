@@ -69,7 +69,7 @@
             </div>
         </div>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <!--<div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
                 <h3 class="mb-0">Web Developer</h3>
                 <div class="lead mb-3">WTIA (Washington Technology Industry Association)</div>
@@ -90,6 +90,6 @@
             <div class="resume-date text-md-right">
                 <span class="text-primary">January 2019 - March 2019</span>
             </div>
-        </div>
+        </div>-->
     </div>
 </section>

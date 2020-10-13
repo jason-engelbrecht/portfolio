@@ -1,7 +1,7 @@
 <!-- web projects -->
 <div class="tab-pane fade show active" id="php" role="tabpanel" aria-labelledby="php-tab">
 
-    <h3 class="mb-2 mt-5">NAMI Washington Application & Admin Portal</h3>
+    <h3 class="mb-2 mt-5">NAMI Washington Applicant Tracking System</h3>
 
     <a href="https://www.apply.namiwa.org" target="_blank" class="float-right btn btn-outline-primary">
         Live Site <i class="fas fa-arrow-right fa-sm"></i>

@@ -6,14 +6,14 @@
                 <h3 class="mb-0">Green River College</h3>
                 <div class="lead mb-1">Bachelor of Applied Science (BAS), Cum Laude</div>
                 <div class="mb-3">Software Development (Applied Computer Science), GPA: 3.7</div>
-                <div class="mt-2"><i class="fas fa-chalkboard-teacher mr-1"></i> Computer Science/Software
-                    Development Tutor
+                <div class="mt-2"><i class="fas fa-chalkboard-teacher mr-1"></i> Computer Science & Software
+                    Development Tutor (2020)
                 </div>
                 <div class="mt-2"><i class="fas fa-trophy mr-1"></i>
-                    Outstanding Cohort Student Award
+                    Outstanding Cohort Student Award (2020)
                 </div>
                 <div class="mt-2"><i class="fas fa-trophy mr-1"></i>
-                    Green River College Foundation Scholarship x2
+                    Green River College Foundation Scholarship (2018 & 2019)
                 </div>
             </div>
             <div class="resume-date text-md-right">
