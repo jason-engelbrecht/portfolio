@@ -86,15 +86,31 @@ p.lead {
   color: #2079c7;
 }
 
+.edu-hover {
+  cursor: default;
+}
+
+.edu-hover:hover {
+  color: #2079c7;
+}
+
 .certs:hover {
   color: #2079c7;
+}
+
+.exp-hover:hover {
+  color: #2079c7;
+}
+
+.exp-hover {
+  cursor: default;
 }
 
 .nav-pills .nav-link {
   border-radius: .25rem;
   background-color: #F0F0F0;
   color: black;
-  border: lightgray solid;
+  border: lightgray solid 1px;
   margin-right: 1px;
 }
 
@@ -122,6 +138,12 @@ p.lead {
 
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
+}
+
+@media (max-width: 768px) {
+  .edu-date {
+    padding-top: 17px;
+  }
 }
 
 @media (min-width: 992px) {
