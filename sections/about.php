@@ -7,7 +7,7 @@
             <a href="mailto:jason.engelbrecht314@gmail.com">jason.engelbrecht314@gmail.com</a>
         </p>
         <p class="lead mb-5">
-            Recent Applied Computer Science graduate experienced working in Agile teams on development
+            Recent Computer Science BAS graduate experienced working in Agile teams on development
             projects in various technology stacks, seeking a challenging entry-level Software Engineer or Web Developer
             position, where I'm open and eager to continue learning.
         </p>

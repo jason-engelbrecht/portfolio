@@ -73,14 +73,11 @@
         <div class="mb-5">
             <p>
                 Built using: HTML/CSS, Bootstrap, JavaScript, jQuery, Charts.js, Ajax, PHP, MySQL, and
-                FatFree(MVC).
-                <br><i class="fas fa-code text-primary"></i> <strong class="text-primary">Development: </strong>
-                <a href="https://www.jengelbrecht.greenriverdev.com/unami" target="_blank">Application Portal
-                    <a>|
-                        <a href="https://www.jengelbrecht.greenriverdev.com/unami/login" target="_blank"> Admin
-                            Portal </a>|
-                        <a href="https://github.com/jason-engelbrecht/unami" target="_blank"> Code </a> (Open Source)
+                FatFree MVC.
 
+                <br><a href="https://github.com/jason-engelbrecht/unami" target="_blank">
+                    <i class="fas fa-code"></i> Code
+                </a> (Open Source)
             </p>
         </div>
     </div>
@@ -143,10 +140,7 @@
         <div class="mb-5">
             <p>
                 Built using: HTML/CSS, MDBootstrap, Javascript, jQuery, Ajax, PHP, MySQL, and FatFree(MVC).
-                <br><a href="https://github.com/jason-engelbrecht/foodie" target="_blank"><i class="fas fa-code"></i> Code</a> |
-                <a href="https://www.jengelbrecht.greenriverdev.com/it328/foodie" target="_blank">Application
-                    <i class="fas fa-arrow-right"></i></a>
-
+                <br><a href="https://github.com/jason-engelbrecht/foodie" target="_blank"><i class="fas fa-code"></i> Code</a>
             </p>
         </div>
     </div>
@@ -216,9 +210,6 @@
             <p>
                 Built using: HTML/CSS, Bootstrap, Javascript, jQuery, PHP and MySQL.
                 <br><a href="https://github.com/jason-engelbrecht/connections-teamwon" target="_blank"><i class="fas fa-code"></i> Code</a>
-                | <a href="https://teamwon.greenriverdev.com/" target="_blank">Application Prototype <i
-                        class="fas fa-arrow-right"></i></a>
-
             </p>
         </div>
     </div>

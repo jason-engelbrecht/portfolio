@@ -1,7 +1,7 @@
 <!-- web projects -->
 <div class="tab-pane fade" id="js" role="tabpanel" aria-labelledby="js-tab">
 
-    <h3 class="mb-2 mt-5">The Language Lab</h3>
+    <h3 class="mb-2 mt-5">GRC Language Lab</h3>
     <a href="https://the-languagelab.herokuapp.com" target="_blank" class="float-right btn btn-outline-primary">
         Live Site <i class="fas fa-arrow-right fa-sm"></i>
     </a>
@@ -56,7 +56,7 @@
     </div>
 
     <h3 class="mb-2 mt-5">GIFMATCH</h3>
-    <a href="https://www.gifmatch.app" target="_blank" class="float-right btn btn-outline-primary">
+    <a href="https://gif-match.herokuapp.com/" target="_blank" class="float-right btn btn-outline-primary">
         Live Site <i class="fas fa-arrow-right fa-sm"></i>
     </a>
 
@@ -109,7 +109,7 @@
                 <br><i class="fas fa-code text-primary"></i> <strong class="text-primary">Code: </strong>
                 <a href="https://github.com/jason-engelbrecht/gif-search" target="_blank">Front-end </a>|
                 <a href="https://github.com/jason-engelbrecht/gif-search-backend" target="_blank">
-                    Back-end </a> (Open Source)
+                    Back-end API </a> (Open Source)
 
             </p>
         </div>
